@@ -1,0 +1,47 @@
+.box {
+  display: flex;
+  margin: 0.5px;
+  width: 120px;
+  height: 100%;
+}
+#_1 {
+    background: rgb(255, 255, 255);
+}
+#_2 {
+    background: #ff0000;
+}
+#_3 {
+    background: #2e1305;
+}
+#_3_1 {
+    background: #040000;
+}
+#_4 {
+    background: #ffb380;
+}
+#_5 {
+    background: #ffff01;
+}
+#_6 {
+    background: #0000ff;
+}
+#_7 {
+    background: #502d16;
+}
+.container {
+  background: rgb(255, 255, 255);
+  height: 800px;
+  width: 800px;
+  display: flex;
+  flex-direction: column;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.row{
+    margin: 0.5px;
+    display: flex;
+    height: 6.25%;
+}
